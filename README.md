@@ -1,4 +1,5 @@
-Problem Statement:  Industrial Fire Safety System - Develop a prototype system which can generate and evacuate the workers under fire accident.
+Project Aim: Industrial Fire Safety System
+Problem Statement: Develop a prototype system which can generate and evacuate the workers under fire accident.
 
 Scope of the Solution: 
 The scope of this prototype solution is to develop an integrated industrial fire safety system capable of:
