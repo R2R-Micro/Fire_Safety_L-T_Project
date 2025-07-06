@@ -22,7 +22,7 @@ void loop() {
   Serial.println(FlameSensor);
   delay(500);
 
-  if ((GasSensor > 60)|| FlameSensor == 0){
+  if ((GasSensor > 100)|| FlameSensor == 0){
     digitalWrite(Led, HIGH);
     digitalWrite(Buzzer, HIGH);
   }
